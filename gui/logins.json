@@ -1,0 +1,17 @@
+{
+   "Instagram": {
+      "Username": "ENTER_USERNAME_HERE",
+      "Password": "ENTER_PASSWORD_HERE",
+      "LoggedIn?": false
+   },
+   "TikTok": {
+      "Username": "ENTER_USERNAME_HERE",
+      "Password": "ENTER_PASSWORD_HERE",
+      "LoggedIn?": false
+   },
+   "YouTube": {
+      "Username": "ENTER_USERNAME_HERE",
+      "Password": "ENTER_PASSWORD_HERE",
+      "LoggedIn?": false
+   }
+}
